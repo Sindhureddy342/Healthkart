@@ -31,5 +31,5 @@ The app uses simulated data for the following entities:
 * Tracking data (revenue generated from influencer links)
 *Payouts (based on rate and performance)
 
-Check out the live dashboard here: [View Dashboard](https://your-username-your-repo-name.streamlit.app)
+Check out the live dashboard here: (https://your-username-your-repo-name.streamlit.app)
 
